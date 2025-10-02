@@ -1,0 +1,28 @@
+/*!
+* Boostrap v4.0.0 {https://getbootstrap.com}
+* Copyrigth 2011-2018 The Bootstrap Authors 
+* Copyrigth 2011-2018 Twitter, 
+* Licencesd under MIT {https://github.com/twbs/boostrat/blob/master/LICENSE}
+*/
+:root{
+    --blue:#007bff;
+    --indigo:#6610f2;
+    --purpl: #6f42c1;
+--pink:#e83e8c;
+--red: #dc3545;
+--orange: #fd7e14;
+-yellow: #ffc107;
+--green: #28a745;
+--teal: #20c997;
+--cyan: #17a2b8;
+--white:#fff:
+--gray: #6c757d;
+--gray-dark:#343a40;
+--primary:007b;
+--secondary:#6c757d;
+--success: #280745;
+--info: #17a2b8;
+--warning: #ffc107;
+--danger: #dc3545;
+--Light: #f8f9fa;
+}

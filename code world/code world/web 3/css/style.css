@@ -1,0 +1,70 @@
+/*--- Body Reset--*/
+body {
+    overflow-x: hidden;
+    font-family: 'monserrat', sans-serif;
+    color: #616971;
+}
+
+/*============== TOP BAR HEADER ========*/
+
+
+
+
+
+
+/*============== NAVIGATION  ========*/
+
+
+
+
+
+
+
+/*============== CAROUSEL ========*/
+
+
+/*---Change Carousel Transition speed ---*/
+
+
+
+/*--- Carousel Content---*/
+
+
+/*===== FIXED BACKGROUND IMG====*/
+
+
+/*---Emoji Navbar--*/
+
+
+/*====== FOOTER =====*/
+
+
+
+/*==== SOCKET ====*/
+
+
+/*====== MEDIA QUERIES ====*/
+
+
+
+
+/* Devices under 1199px (xl) */
+@media (max-width:1199.98px) {}
+
+/* Devices under 768px (md)*/
+@media(max-width:767.98px) {}
+
+/*============= BOOTSTRAP BREAK POINTS:
+Extra small (xs) devices (portrait phones , less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices 9 landscape phones , 576px and up )
+@media (min-width: 576px ){...}
+
+Medium (md) devices (tablets, 768px and up )
+@media(min-width:768px ){...}
+
+
+Large (lg) devices (desktops, 992px and up 
+@media(min-width:992px){...}
+Extra (xl)
